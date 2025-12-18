@@ -4,10 +4,10 @@ Flutter application for managing follow-ups , with search by title or customer n
 and filter by status.
 
 ## Architecture used
-project follows Clean Architecture 
+project follows Clean Architecture ,
 State management : Bloc
 
  ## How to Run the Project
- - Clone the repository
- - Run flutter pub get
- - Run flutter run
+ 1- Clone the repository ,
+ 2- Run 'flutter pub get' ,
+ 3- Run 'flutter run'
